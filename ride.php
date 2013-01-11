@@ -3,6 +3,6 @@
   <title>Ejemplo PHP</title>
  </head>
  <body>
- <?php echo '<p>¡Hola Verdes!</p>'; ?> 
+ <?php echo '<p>¡Hola Rojos!</p>'; ?> 
  </body>
 </html> 

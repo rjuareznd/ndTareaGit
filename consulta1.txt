@@ -11,7 +11,7 @@ group by year(order_date) , month(order_date);
 SELECT * FROM `order` o;
 
 update `order` set order_date = '2012-10-01'
-where idorder between 16989 and 26756;
+where idorder between 16989 and 26789;
 
 
 
